@@ -1,6 +1,4 @@
-Here’s a comprehensive `README.md` for your **IBM Data Analyst Capstone Project** repo. It explains the project's purpose, tools used, outcomes, and how someone can explore or reuse your work. It’s especially strong for data roles.
 
----
 
 ```markdown
 # IBM Data Analyst Capstone Project
